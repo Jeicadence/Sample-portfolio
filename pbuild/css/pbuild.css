@@ -779,11 +779,6 @@ video {
   padding-bottom: 72px;
 }
 
-.px-14 {
-  padding-left: 3.5rem;
-  padding-right: 3.5rem;
-}
-
 .pb-20 {
   padding-bottom: 5rem;
 }
@@ -1091,18 +1086,6 @@ video {
     gap: 1.75rem;
   }
 
-  .lg\:gap-\[62\%\] {
-    gap: 62%;
-  }
-
-  .lg\:gap-\[65\%\] {
-    gap: 65%;
-  }
-
-  .lg\:gap-\[67\%\] {
-    gap: 67%;
-  }
-
   .lg\:gap-\[68\%\] {
     gap: 68%;
   }
@@ -1126,24 +1109,14 @@ video {
     padding-right: 1.5rem;
   }
 
-  .lg\:px-\[20\%\] {
-    padding-left: 20%;
-    padding-right: 20%;
+  .lg\:px-\[27\%\] {
+    padding-left: 27%;
+    padding-right: 27%;
   }
 
   .lg\:py-16 {
     padding-top: 4rem;
     padding-bottom: 4rem;
-  }
-
-  .lg\:px-\[30\%\] {
-    padding-left: 30%;
-    padding-right: 30%;
-  }
-
-  .lg\:px-\[27\%\] {
-    padding-left: 27%;
-    padding-right: 27%;
   }
 
   .lg\:pb-\[15rem\] {
