@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Quibezz"
+		},
+		{
+			"path": "../MedicLab"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Quibezz"
+	}
+}
